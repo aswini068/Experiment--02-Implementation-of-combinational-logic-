@@ -27,7 +27,8 @@ F=(((C.B'.A)+(D.C'.A)+(C.B'.A))')'
 ## Procedure:
 1.Create a project with required entities. 2.Create a module along with respective file name. 3.Run the respective programs for the given boolean equations. 4.Run the module and get the respective RTL outputs. 5.Create university program(VWF) for getting timing diagram. 6.Give the respective inputs for timing diagram and obtain the results.
 ## Program:
-/*
+/*![Screenshot (90)](https://github.com/aswini068/Experiment--02-Implementation-of-combinational-logic-/assets/149219827/8b21e210-7a79-434e-aa21-a3753bc492d1)
+
 Program to implement the given logic function and to verify its operations in quartus using Verilog programming.
 Developed by: m.aswini
 RegisterNumber:212223220010  
