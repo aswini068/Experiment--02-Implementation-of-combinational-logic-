@@ -34,6 +34,11 @@ F=(((C.B'.A)+(D.C'.A)+(C.B'.A))')'
 3.Run the respective programs for the given boolean equations.
 4.Run the module and get the respective RTL outputs.
 5.Create university program(VWF) for getting timing diagram. 6.Give the respective inputs for timing diagram and obtain the results.
+
+## truth table:
+
+![image](https://github.com/aswini068/Experiment--02-Implementation-of-combinational-logic-/assets/149219827/8b1d350c-7d66-4ca0-b792-6a70934efbf4)
+
 ## Program:
 /*![Screenshot (90)](https://github.com/aswini068/Experiment--02-Implementation-of-combinational-logic-/assets/149219827/8b21e210-7a79-434e-aa21-a3753bc492d1)
 
