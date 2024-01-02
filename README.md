@@ -24,8 +24,16 @@ Using NOR gates NOR gate is actually a combination of two logic gates: OR gate f
 
 F=(((C.B'.A)+(D.C'.A)+(C.B'.A))')' 
 
+## logic diagram:
+![image](https://github.com/aswini068/Experiment--02-Implementation-of-combinational-logic-/assets/149219827/1d6b5b74-8bce-42d3-8ec1-e1fcec3f647e)
+
+
 ## Procedure:
-1.Create a project with required entities. 2.Create a module along with respective file name. 3.Run the respective programs for the given boolean equations. 4.Run the module and get the respective RTL outputs. 5.Create university program(VWF) for getting timing diagram. 6.Give the respective inputs for timing diagram and obtain the results.
+1.Create a project with required entities.
+2.Create a module along with respective file name.
+3.Run the respective programs for the given boolean equations.
+4.Run the module and get the respective RTL outputs.
+5.Create university program(VWF) for getting timing diagram. 6.Give the respective inputs for timing diagram and obtain the results.
 ## Program:
 /*![Screenshot (90)](https://github.com/aswini068/Experiment--02-Implementation-of-combinational-logic-/assets/149219827/8b21e210-7a79-434e-aa21-a3753bc492d1)
 
@@ -37,7 +45,8 @@ RegisterNumber:212223220010
 ![Screenshot (57)](https://github.com/aswini068/Experiment--02-Implementation-of-combinational-logic-/assets/149219827/0ab2813e-77bc-4242-ab5e-779690c15d2d)
 
 ## Timing Diagram:
-![image](https://github.com/aswini068/Experiment--02-Implementation-of-combinational-logic-/assets/149219827/6184cd0f-1769-451e-b828-d2d336acdb57)
+![Screenshot (48)](https://github.com/aswini068/Experiment--02-Implementation-of-combinational-logic-/assets/149219827/bd99bcdd-b86d-4d4e-8250-17c35e2e81e6)
+
 
 ## Result:
 Thus the given logic functions are implemented using  and their operations are verified using Verilog programming.
